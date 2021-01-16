@@ -13,7 +13,7 @@ disableServersList = false
 diskCacheRoot = /ssr-data/cache
 localDocumentRoot = ""
 
-socksParentProxy = "127.0.0.1:1086"
+socksParentProxy = "127.0.0.1:1080"
 socksProxyType = socks5
 
 chunkHighMark = 50331648

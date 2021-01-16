@@ -1,0 +1,98 @@
+2020-12-19 09:18:22,282 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-19 09:18:22,284 INFO supervisord started with pid 1
+2020-12-19 09:18:23,288 INFO spawned: 'polipo' with pid 7
+2020-12-19 09:18:23,293 INFO spawned: 'ssr' with pid 8
+2020-12-19 09:18:23,295 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:18:24,390 INFO spawned: 'polipo' with pid 9
+2020-12-19 09:18:24,390 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-19 09:18:24,401 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:18:26,407 INFO spawned: 'polipo' with pid 10
+2020-12-19 09:18:26,413 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:18:29,419 INFO spawned: 'polipo' with pid 11
+2020-12-19 09:18:29,425 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:18:29,425 INFO gave up: polipo entered FATAL state, too many start retries too quickly
+2020-12-19 09:27:28,088 WARN received SIGINT indicating exit request
+2020-12-19 09:27:28,088 INFO waiting for ssr to die
+2020-12-19 09:27:28,091 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-19 09:27:32,980 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-19 09:27:32,982 INFO supervisord started with pid 1
+2020-12-19 09:27:33,986 INFO spawned: 'polipo' with pid 7
+2020-12-19 09:27:33,989 INFO spawned: 'ssr' with pid 8
+2020-12-19 09:27:33,991 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:27:35,084 INFO spawned: 'polipo' with pid 9
+2020-12-19 09:27:35,085 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-19 09:27:35,087 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:27:37,093 INFO spawned: 'polipo' with pid 10
+2020-12-19 09:27:37,100 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:27:40,106 INFO spawned: 'polipo' with pid 11
+2020-12-19 09:27:40,108 INFO exited: polipo (exit status 1; not expected)
+2020-12-19 09:27:40,108 INFO gave up: polipo entered FATAL state, too many start retries too quickly
+2020-12-19 09:27:44,113 WARN received SIGINT indicating exit request
+2020-12-19 09:27:44,113 INFO waiting for ssr to die
+2020-12-19 09:27:44,114 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-20 00:42:55,545 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-20 00:42:55,547 INFO supervisord started with pid 1
+2020-12-20 00:42:56,551 INFO spawned: 'polipo' with pid 7
+2020-12-20 00:42:56,554 INFO spawned: 'ssr' with pid 8
+2020-12-20 00:42:56,555 INFO exited: polipo (exit status 1; not expected)
+2020-12-20 00:42:57,654 INFO spawned: 'polipo' with pid 9
+2020-12-20 00:42:57,655 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 00:42:57,658 INFO exited: polipo (exit status 1; not expected)
+2020-12-20 00:42:59,664 INFO spawned: 'polipo' with pid 10
+2020-12-20 00:42:59,670 INFO exited: polipo (exit status 1; not expected)
+2020-12-20 00:43:02,676 INFO spawned: 'polipo' with pid 11
+2020-12-20 00:43:02,682 INFO exited: polipo (exit status 1; not expected)
+2020-12-20 00:43:02,682 INFO gave up: polipo entered FATAL state, too many start retries too quickly
+2020-12-20 00:43:07,688 WARN received SIGINT indicating exit request
+2020-12-20 00:43:07,688 INFO waiting for ssr to die
+2020-12-20 00:43:07,691 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-20 02:13:29,087 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-20 02:13:29,088 INFO supervisord started with pid 1
+2020-12-20 02:13:30,092 INFO spawned: 'polipo' with pid 7
+2020-12-20 02:13:30,095 INFO spawned: 'ssr' with pid 8
+2020-12-20 02:13:31,188 INFO success: polipo entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 02:13:31,188 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 02:14:29,254 WARN received SIGTERM indicating exit request
+2020-12-20 02:14:29,254 INFO waiting for polipo, ssr to die
+2020-12-20 02:14:29,254 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-20 02:14:29,255 INFO stopped: polipo (exit status 0)
+2020-12-20 02:32:22,247 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-20 02:32:22,248 INFO supervisord started with pid 1
+2020-12-20 02:32:23,253 INFO spawned: 'polipo' with pid 7
+2020-12-20 02:32:23,259 INFO spawned: 'ssr' with pid 8
+2020-12-20 02:32:24,380 INFO success: polipo entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 02:32:24,380 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 02:33:38,473 WARN received SIGTERM indicating exit request
+2020-12-20 02:33:38,473 INFO waiting for polipo, ssr to die
+2020-12-20 02:33:38,476 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-20 02:33:38,478 INFO stopped: polipo (exit status 0)
+2020-12-20 07:36:44,303 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-20 07:36:44,306 INFO supervisord started with pid 1
+2020-12-20 07:36:45,310 INFO spawned: 'polipo' with pid 7
+2020-12-20 07:36:45,315 INFO spawned: 'ssr' with pid 8
+2020-12-20 07:36:46,413 INFO success: polipo entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 07:36:46,413 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 07:38:48,566 WARN received SIGINT indicating exit request
+2020-12-20 07:38:48,567 INFO waiting for polipo, ssr to die
+2020-12-20 07:38:48,570 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-20 07:38:48,571 INFO stopped: polipo (exit status 0)
+2020-12-20 07:39:06,993 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-20 07:39:06,995 INFO supervisord started with pid 1
+2020-12-20 07:39:07,999 INFO spawned: 'polipo' with pid 7
+2020-12-20 07:39:08,002 INFO spawned: 'ssr' with pid 8
+2020-12-20 07:39:09,096 INFO success: polipo entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 07:39:09,096 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 07:42:14,328 WARN received SIGINT indicating exit request
+2020-12-20 07:42:14,329 INFO waiting for polipo, ssr to die
+2020-12-20 07:42:14,332 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-20 07:42:14,334 INFO stopped: polipo (exit status 0)
+2020-12-20 07:58:31,751 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-12-20 07:58:31,752 INFO supervisord started with pid 1
+2020-12-20 07:58:32,757 INFO spawned: 'polipo' with pid 7
+2020-12-20 07:58:32,760 INFO spawned: 'ssr' with pid 8
+2020-12-20 07:58:33,851 INFO success: polipo entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 07:58:33,851 INFO success: ssr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-20 07:58:49,872 WARN received SIGTERM indicating exit request
+2020-12-20 07:58:49,873 INFO waiting for polipo, ssr to die
+2020-12-20 07:58:49,875 INFO stopped: ssr (terminated by SIGTERM)
+2020-12-20 07:58:49,877 INFO stopped: polipo (exit status 0)
